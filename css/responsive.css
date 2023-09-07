@@ -1,0 +1,630 @@
+/* css media query start */
+
+
+/*****
+ * Screen Resulation : 279px to 319px 
+ * Most of the folding mobile phone -- Galaxy Fold
+ * 
+ * 
+*/
+
+@media (min-width: 279px) and (max-width: 319px) {
+
+/* css start */
+
+.header .navbar-toggler{
+    background: #08c;
+    border-radius: 0px;
+
+}
+
+.header .navbar-toggler .fa-bars{
+  color: #fff;
+  
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+  margin: 0px;
+  font-size: 8px;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link:hover, .header .navbar-expand-lg .navbar-nav .nav-link:focus{
+      background: url(../images/line.png) left bottom no-repeat;
+}
+
+.header .navbar-nav .nav-link.active{
+   background: url(../images/line.png) left bottom no-repeat;
+
+}
+
+.banner{
+  padding: 30px 0px;
+}
+.banner h4{
+  font-size: 11px;
+}
+
+.banner h1{
+  font-size: 24px;
+}
+.banner p{
+  font-size: 8px;
+}
+
+.banner .action-buttons{
+  padding: 20px 0px 0px 0px;
+}
+
+.banner .action-buttons .btn-primary{
+          padding: 10px 13px;
+          font-size: 8px;
+          margin: 0px 10px 0px 0px
+}
+
+.banner .action-buttons .btn-info{
+          padding: 10px 13px;
+          font-size: 8px;
+
+}
+
+.title h4{
+  font-size: 11px;
+}
+
+.title h1{
+  font-size: 30px;
+}
+
+.feature{
+  padding: 40px 0px;
+}
+
+.inner-feature{
+  padding: 15px 24px;
+
+}
+.inner-feature p{
+  font-size: 12px;
+}
+
+.about-long p{
+  font-size: 9px;
+}
+
+.about-long .title{
+  margin: 30px 0px 15px;
+}
+
+.about-long ul li{
+  font-size: 11px;
+}
+.about-short{
+  padding: 40px 0px;
+}
+.title h1{
+  font-size: 11px;
+}
+
+.about-short p{
+  font-size: 9px;
+}
+
+.eye-catcher{
+  padding: 24px 0px;
+}
+.eye-catcher h1{
+  font-size: 17px;
+}
+.eye-catcher .action-buttons .btn-info{
+  padding: 10px 15px;
+}
+
+.eye-catcher .action-buttons .btn-primary{
+  padding: 10px 15px;
+}
+
+.pricing{
+  padding: 40px 0px;
+}
+
+.title h4{
+  font-size: 11px;
+
+}
+
+.title h1{
+  font-size: 9px;
+}
+
+.pricing .title{
+  padding: 0px 0px 30px;
+}
+
+.price-head h2{
+  font-size: 28px;
+}
+
+.main-price h1{
+  font-size: 40px;
+}
+.main-price p{
+  font-size: 11px;
+}
+.price-content p{
+  font-size: 11px;
+}
+.price-content .btn-primary{
+  padding: 5px 11px;
+}
+.price-head{
+  padding: 10px 0px;
+}
+
+.price-head h2{
+  font-size: 20px;
+}
+.contact-us{
+  padding: 40px 0px 0px;
+}
+
+.contact-us .title h4{
+  font-size: 7px;
+}
+
+.contact-us .title h1{
+  font-size: 15px;
+}
+
+.info p{
+  font-size: 9px;
+}
+.contact{
+  padding: 30px 25px;
+}
+.contact .btn-primary{
+  padding: 10px 25px;
+}
+
+.social-media p{
+  margin: 11px 0px 0px 0px;
+  font-size: 9px;
+}
+
+
+
+
+
+/* css end */
+
+}
+
+
+
+
+/*****
+ * Screen Resulation : 320px to 480px 
+ * Most of the mobile phones 
+ * 
+ * 
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+/* css start */
+.header .navbar-toggler{
+    background: #08c;
+    border-radius: 0px;
+
+}
+
+.header .navbar-toggler .fa-bars{
+  color: #fff;
+  
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+  margin: 0px;
+  font-size: 14px;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link:hover, .header .navbar-expand-lg .navbar-nav .nav-link:focus{
+      background: url(../images/line.png) left bottom no-repeat;
+}
+
+.header .navbar-nav .nav-link.active{
+   background: url(../images/line.png) left bottom no-repeat;
+
+}
+
+.banner{
+  padding: 30px 0px;
+}
+.banner h4{
+  font-size: 14px;
+}
+
+.banner h1{
+  font-size: 32px;
+}
+.banner p{
+  font-size: 12px;
+}
+
+.banner .action-buttons{
+  padding: 20px 0px 0px 0px;
+}
+
+.banner .action-buttons .btn-primary{
+          padding: 12px 15px;
+          font-size: 13px;
+          margin: 0px 10px 0px 0px
+}
+
+.banner .action-buttons .btn-info{
+          padding: 12px 15px;
+          font-size: 13px;
+
+}
+
+.title h4{
+  font-size: 11px;
+}
+
+.title h1{
+  font-size: 30px;
+}
+
+.feature{
+  padding: 40px 0px;
+}
+
+.inner-feature{
+  padding: 15px 24px;
+
+}
+.inner-feature p{
+  font-size: 12px;
+}
+
+.about-long p{
+  font-size: 11px;
+}
+
+.about-long .title{
+  margin: 30px 0px 15px;
+}
+
+.about-long ul li{
+  font-size: 11px;
+}
+.about-short{
+  padding: 40px 0px;
+}
+.title h1{
+  font-size: 11px;
+}
+
+.about-short p{
+  font-size: 12px;
+}
+
+.eye-catcher{
+  padding: 24px 0px;
+}
+.eye-catcher h1{
+  font-size: 17px;
+}
+.eye-catcher .action-buttons .btn-info{
+  padding: 10px 15px;
+}
+
+.eye-catcher .action-buttons .btn-primary{
+  padding: 10px 15px;
+}
+
+.pricing{
+  padding: 40px 0px;
+}
+
+.title h4{
+  font-size: 11px;
+
+}
+
+.title h1{
+  font-size: 9px;
+}
+
+.pricing .title{
+  padding: 0px 0px 30px;
+}
+
+.price-head h2{
+  font-size: 28px;
+}
+
+.main-price h1{
+  font-size: 40px;
+}
+.main-price p{
+  font-size: 11px;
+}
+.price-content p{
+  font-size: 11px;
+}
+.price-content .btn-primary{
+  padding: 5px 11px;
+}
+.price-head{
+  padding: 10px 0px;
+}
+
+.price-head h2{
+  font-size: 20px;
+}
+.contact-us{
+  padding: 40px 0px 0px;
+}
+
+.contact-us .title h4{
+  font-size: 7px;
+}
+
+.contact-us .title h1{
+  font-size: 15px;
+}
+
+.info p{
+  font-size: 9px;
+}
+.contact{
+  padding: 30px 25px;
+}
+.contact .btn-primary{
+  padding: 10px 25px;
+}
+/* css end */
+
+}
+
+
+
+
+
+/*****
+ * Screen Resulation : 481px to 767px 
+ * Most of the mobile phones & Low Resulation Tab
+ * 
+ * 
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+/* css start */
+.header .navbar-toggler{
+    background: #08c;
+    border-radius: 0px;
+
+}
+
+.header .navbar-toggler .fa-bars{
+  color: #fff;
+  
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+  margin: 0px;
+  font-size: 14px;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link:hover, .header .navbar-expand-lg .navbar-nav .nav-link:focus{
+      background: url(../images/line.png) left bottom no-repeat;
+}
+
+.header .navbar-nav .nav-link.active{
+   background: url(../images/line.png) left bottom no-repeat;
+
+}
+
+.banner{
+  padding: 30px 0px;
+}
+.banner h4{
+  font-size: 14px;
+}
+
+.banner h1{
+  font-size: 34px;
+}
+.banner p{
+  font-size: 13px;
+}
+
+.banner .action-buttons{
+  padding: 20px 0px 0px 0px;
+}
+
+.banner .action-buttons .btn-primary{
+          padding: 12px 15px;
+          font-size: 13px;
+          margin: 0px 10px 0px 0px
+}
+
+.banner .action-buttons .btn-info{
+          padding: 12px 15px;
+          font-size: 13px;
+
+}
+
+.title h4{
+  font-size: 11px;
+}
+
+.title h1{
+  font-size: 30px;
+}
+
+.feature{
+  padding: 40px 0px;
+}
+
+.inner-feature{
+  padding: 15px 24px;
+
+}
+.inner-feature p{
+  font-size: 12px;
+}
+
+.about-long p{
+  font-size: 11px;
+}
+
+.about-long .title{
+  margin: 30px 0px 15px;
+}
+
+.about-long ul li{
+  font-size: 11px;
+}
+.about-short{
+  padding: 40px 0px;
+}
+.title h1{
+  font-size: 11px;
+}
+
+.about-short p{
+  font-size: 12px;
+}
+
+.eye-catcher{
+  padding: 24px 0px;
+}
+.eye-catcher h1{
+  font-size: 17px;
+}
+.eye-catcher .action-buttons .btn-info{
+  padding: 10px 15px;
+}
+
+.eye-catcher .action-buttons .btn-primary{
+  padding: 10px 15px;
+}
+
+.pricing{
+  padding: 40px 0px;
+}
+
+.title h4{
+  font-size: 11px;
+
+}
+
+.title h1{
+  font-size: 9px;
+}
+
+.pricing .title{
+  padding: 0px 0px 30px;
+}
+
+.price-head h2{
+  font-size: 28px;
+}
+
+.main-price h1{
+  font-size: 40px;
+}
+.main-price p{
+  font-size: 11px;
+}
+.price-content p{
+  font-size: 11px;
+}
+.price-content .btn-primary{
+  padding: 5px 11px;
+}
+.price-head{
+  padding: 10px 0px;
+}
+
+.price-head h2{
+  font-size: 20px;
+}
+.contact-us{
+  padding: 40px 0px 0px;
+}
+
+.contact-us .title h4{
+  font-size: 7px;
+}
+
+.contact-us .title h1{
+  font-size: 15px;
+}
+
+.info p{
+  font-size: 9px;
+}
+.contact{
+  padding: 30px 25px;
+}
+.contact .btn-primary{
+  padding: 10px 25px;
+}
+
+
+/* css end */
+
+}
+
+
+
+
+/*****
+ * Screen Resulation : 768px to 1024px 
+ * Most of the Tablets, Notebooks, iPads 
+ * 
+ * 
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+/* css start */
+
+.header .navbar-toggler{
+    background: #08c;
+    border-radius: 0px;
+
+}
+
+.header .navbar-toggler .fa-bars{
+  color: #fff;
+  
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link{
+  margin: 0px;
+  font-size: 16px;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link:hover, .header .navbar-expand-lg .navbar-nav .nav-link:focus{
+      background: url(../images/line.png) left bottom no-repeat;
+}
+
+.header .navbar-nav .nav-link.active{
+   background: url(../images/line.png) left bottom no-repeat;
+
+}
+
+.banner{
+  padding: 50px 0px;
+}
+
+
+
+
+/* css end */
+
+}
